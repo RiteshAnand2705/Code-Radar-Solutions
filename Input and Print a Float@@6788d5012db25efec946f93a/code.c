@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main() {
+int main() {
     float num,
     printf("senter any number;");
     scanf("%f",&num);
