@@ -1,4 +1,3 @@
 #include <stdio.h>
-void main(){
-int num;
+void main()
 scanf("%d",&num)
