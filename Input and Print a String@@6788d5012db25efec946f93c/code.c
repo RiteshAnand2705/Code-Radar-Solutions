@@ -3,4 +3,5 @@ int main() {
     str var[100];
     scanf("%s",&var);
     printf("You entered: %s", var);
+    return 0;
 }
