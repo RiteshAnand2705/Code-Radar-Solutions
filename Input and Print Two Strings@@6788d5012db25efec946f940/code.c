@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main() {
-    char var1[50], var2[50];
-    scanf("%49s",&var1);
-    scanf("%49s",&var2);
+    char var1[150], var2[150];
+    scanf("%149s",&var1);
+    scanf("%149s",&var2);
     printf("%s and %s\n", var1, var2);
     return 0;
 }
