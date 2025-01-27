@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+char main() {
     char var1[150], var2[150];
     scanf("%149s",&var1);
     scanf("%149s",&var2);
