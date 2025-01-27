@@ -1,8 +1,7 @@
 #include <stdio.h>
 void main() {
-    float num1,num2;
-    scanf("%f",&num1);
-    scanf("%f",&num2);
+    int num1;
+    scanf("%d",&num1);
     printf("Hexadecimal: %c" num1 );
     printf("Octoal: %d", num1);
     printf();
