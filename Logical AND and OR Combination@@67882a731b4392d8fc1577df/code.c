@@ -5,10 +5,12 @@ int main() {
     scanf("%d", &b);
 
 if (((a>0)&&(b>0))) || (((a==0)&&(b==0)))
-    printf("",)
+{
+printf("True");
+}
 
-    else{
-    printf("",);     
+else{
+printf("False");     
     }
    
     return 0;
