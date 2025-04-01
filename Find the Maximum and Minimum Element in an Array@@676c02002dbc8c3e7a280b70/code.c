@@ -1,4 +1,3 @@
-// Your code here...
 #include <stdio.h>
 
 void findMinMax(int arr[], int size, int *min, int *max) {
@@ -15,7 +14,7 @@ void findMinMax(int arr[], int size, int *min, int *max) {
 }
 
 int main() {
-    int arr[] = {10, 20, 5, 8, 30, 15};
+    int arr[0];
     int size = sizeof(arr) / sizeof(arr[0]);
     int min, max;
 
