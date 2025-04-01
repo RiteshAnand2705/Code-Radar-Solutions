@@ -5,7 +5,7 @@ char b= 'B';
 char c='C';
 char d='D';
 char grade;
-scanf("%c",&grade)
+scanf("%c",&grade);
 if (grade==char a){
     printf("Excellent");
     }
