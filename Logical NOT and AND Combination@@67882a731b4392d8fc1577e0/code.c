@@ -3,7 +3,9 @@
 int main(){
     int num;
     scanf("%d", &num);
- if (num>0 && num!=0){
+      int num2;
+    scanf("%d", &num2);
+ if (num>0 && num!=0 && num2>0 && num2!=0){
     printf("False");
  }
  else {
