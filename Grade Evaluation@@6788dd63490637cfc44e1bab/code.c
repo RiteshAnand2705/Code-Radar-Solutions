@@ -15,7 +15,7 @@ else if (grade=='b'){
 else if (grade=='c'){
     printf("Below Average");
     }
-else if (grade=='d''){
+else if (grade=='d'){
     printf("Fail");
     }
 else 
