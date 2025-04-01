@@ -23,7 +23,7 @@ else if (grade=='F'){
     }
 else 
 {
-    printf("Invalid Grade");
+    printf("Invalid grade");
 }
 return 0;
 }
