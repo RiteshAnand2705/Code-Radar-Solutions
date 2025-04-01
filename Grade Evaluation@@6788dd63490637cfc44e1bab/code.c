@@ -22,5 +22,5 @@ else
 {
     printf("Invalid Grade");
 }
-return 0
+return 0;
 }
