@@ -6,16 +6,16 @@ char c='C';
 char d='D';
 char grade;
 scanf("%c",&grade);
-if (grade=='a'){
+if (grade=='A'){
     printf("Excellent");
     }
-else if (grade=='b'){
+else if (grade=='B'){
     printf("Good");
     }
-else if (grade=='c'){
+else if (grade=='C'){
     printf("Below Average");
     }
-else if (grade=='d'){
+else if (grade=='D'){
     printf("Fail");
     }
 else 
