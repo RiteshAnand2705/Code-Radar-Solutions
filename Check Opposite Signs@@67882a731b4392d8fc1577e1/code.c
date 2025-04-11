@@ -3,10 +3,12 @@
 int main() {
     int num1, num2;
     scanf("%d %d", &num1, &num2);
-    if ((num1 ^ num2) < 0 || (num1 == 0 && num2 == 0)) {
-        printf("True\n");
+
+    // Check if numbers have opposite signs
+    if ((num1 > 0 && num2 < 0) || (num1 < 0 && num2 > 0)) {
+        printf("True");
     } else {
-        printf("False\n");
+        printf("False");
     }
 
     return 0;
