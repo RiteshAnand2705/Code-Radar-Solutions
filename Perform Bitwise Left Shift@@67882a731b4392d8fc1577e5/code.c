@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    int num, shift;
     scanf("%d", &num);
     scanf("%d", &shift);
 
